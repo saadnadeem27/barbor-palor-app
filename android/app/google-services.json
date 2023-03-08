@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394474582962",
+    "project_id": "barbar-parlor-app",
+    "storage_bucket": "barbar-parlor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394474582962:android:c83e5f06027157528caaab",
+        "android_client_info": {
+          "package_name": "com.example.barber_parlor_app_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394474582962-eppg26fvttol8c3kbk0p8vg8l4ag8so8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuyy4bnJ2w9_hoIUe1yLsEtieCNF92KqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394474582962-eppg26fvttol8c3kbk0p8vg8l4ag8so8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
